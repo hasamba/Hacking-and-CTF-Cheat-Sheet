@@ -6,7 +6,7 @@
 - theharvester - search for emails in several search engines
 
     ```bash
-    theHarvester -d turtle.co.il -l 500 -b google
+    theHarvester -d *.co.il -l 500 -b google
     ```
 
 - sublist3r - search for subdomain for a given domain
