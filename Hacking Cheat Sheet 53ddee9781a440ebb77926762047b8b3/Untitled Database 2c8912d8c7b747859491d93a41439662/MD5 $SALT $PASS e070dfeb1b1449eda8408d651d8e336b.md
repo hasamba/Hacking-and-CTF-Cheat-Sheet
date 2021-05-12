@@ -1,0 +1,3 @@
+# MD5 $SALT:$PASS
+
+Example: f0fda58630310a6dd91a7d8f0a4ceda2:4225637426
