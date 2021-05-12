@@ -10,7 +10,7 @@
     ```
 
 - sublist3r - search for subdomain for a given domain
-- [crt.sh](http://crt.sh) - subdomains  search with %.turtle.co.il
+- [crt.sh](http://crt.sh) - subdomains  search with %.tesla.co.il
 - [httprobe](https://github.com/tomnomnom/httprobe) - will check a list of domain if they are alive, we can fire it sublis3r results
 - [amass](https://github.com/OWASP/Amass) - can also search for subdomains and more
 
